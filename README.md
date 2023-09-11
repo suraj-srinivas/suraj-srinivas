@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I'm an AI researcher working on interpretable, robust and computationally efficient ML. 
+
+📜 For source codes of my research papers, check out 
+
+1. [FullGrad Saliency Maps](https://github.com/idiap/fullgrad-saliency) (NeurIPS 2019) 
+2. [Rethinking Saliency](https://github.com/idiap/rethinking-saliency) (ICLR 2021)
+3. [Low Curvature Neural Networks](https://github.com/kylematoba/lcnn) (NeurIPS 2022)
+
+🏠 For more information about my research, check out my [academic webpage](https://suraj-srinivas.github.io/)
+
 <!--
 **suraj-srinivas/suraj-srinivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
